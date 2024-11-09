@@ -59,3 +59,6 @@ if __name__ == "__main__":
             stack.display()
         else:
             print("입력이 잘못됨")
+            0.
+            3000
+            200 100 100 200
